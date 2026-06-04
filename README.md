@@ -29,11 +29,11 @@
 <!-- 💫 Tech Badges -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=social&logo=typescript&logoColor=black" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=social&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=social&logo=vuedotjs&logoColor=black" alt="Vue" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=social&logo=nodedotjs&logoColor=black" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=social&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=plastic&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ***
@@ -45,18 +45,18 @@
 
 <p align="center">
   <a href="https://github.com/JohnvenTom">
-    <img src="https://img.shields.io/badge/GitHub-JohnvenTom-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-JohnvenTom-181717?style=social&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 <p align="center">
   <a href="https://space.bilibili.com/305602111">
-    <img src="https://img.shields.io/badge/Bilibili-305602111-FF8EB3?style=plastic&logo=bilibili&logoColor=white" alt="Bilibili" />
+    <img src="https://img.shields.io/badge/Bilibili-305602111-FF8EB3?style=social&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
   <a href="mailto:3040791779@qq.com">
-    <img src="https://img.shields.io/badge/QQ邮箱-3040791779-12B7F5?style=plastic&logo=qq&logoColor=white" alt="QQ邮箱" />
+    <img src="https://img.shields.io/badge/QQ邮箱-3040791779-12B7F5?style=social&logo=qq&logoColor=white" alt="QQ邮箱" />
   </a>
   <a href="mailto:tomjohnven@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-tomjohnven%40gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-tomjohnven%40gmail.com-EA4335?style=social&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
