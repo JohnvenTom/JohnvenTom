@@ -75,7 +75,17 @@
 ***
 
 <!-- ============================================ -->
-<!-- 🔗 Social Links -->
+<!-- � GitHub Stats -->
+<!-- ============================================ -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnvenTom&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnvenTom&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+</p>
+
+***
+
+<!-- ============================================ -->
+<!-- �🔗 Social Links -->
 <!-- ============================================ -->
 ### 🤝 Let's Connect
 
