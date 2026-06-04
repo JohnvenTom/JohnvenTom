@@ -75,15 +75,6 @@
 ***
 
 <!-- ============================================ -->
-<!-- 🌊 Dynamic Wave Separator -->
-<!-- ============================================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" alt="Wave Separator" />
-</p>
-
-***
-
-<!-- ============================================ -->
 <!-- 🔗 Social Links -->
 <!-- ============================================ -->
 ### 🤝 Let's Connect
@@ -108,4 +99,11 @@
 
 <p align="center">
   <sub>Built with ❤️ and lots of ☕ | Powered by dynamic SVG magic ✨</sub>
+</p>
+
+<!-- ============================================ -->
+<!-- 🌊 Bottom Wave (Page Footer) -->
+<!-- ============================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" alt="Bottom Wave" />
 </p>
