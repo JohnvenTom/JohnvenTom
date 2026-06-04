@@ -46,13 +46,13 @@
 
 <p align="center">
   <a href="https://github.com/JohnvenTom">
-    <img src="https://img.shields.io/badge/GitHub-JohnvenTom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-JohnvenTom-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://space.bilibili.com/305602111">
-    <img src="https://img.shields.io/badge/Bilibili-305602111-FF8EB3?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+    <img src="https://img.shields.io/badge/Bilibili-305602111-FF8EB3?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
   <a href="mailto:tomjohnven@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tomjohnven%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-tomjohnven%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
