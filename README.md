@@ -29,12 +29,12 @@
 <!-- 💫 Tech Badges -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=plastic&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=plastic&logo=go&logoColor=white" alt="Go" />
 </p>
 
 ***
@@ -46,16 +46,18 @@
 
 <p align="center">
   <a href="https://github.com/JohnvenTom">
-    <img src="https://img.shields.io/badge/GitHub-JohnvenTom-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-JohnvenTom-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+<p align="center">
   <a href="https://space.bilibili.com/305602111">
-    <img src="https://img.shields.io/badge/Bilibili-305602111-FF8EB3?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
+    <img src="https://img.shields.io/badge/Bilibili-305602111-FF8EB3?style=plastic&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
   <a href="mailto:3040791779@qq.com">
-    <img src="https://img.shields.io/badge/QQ邮箱-3040791779-12B7F5?style=flat-square&logo=qq&logoColor=white" alt="QQ邮箱" />
+    <img src="https://img.shields.io/badge/QQ邮箱-3040791779-12B7F5?style=plastic&logo=qq&logoColor=white" alt="QQ邮箱" />
   </a>
   <a href="mailto:tomjohnven@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-tomjohnven%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-tomjohnven%40gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -65,7 +67,7 @@
 <!-- 👁️ Profile Views Counter -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JohnvenTom&color=8B5CF6&style=flat-square&label=Profile+Views&labelColor=1e1e2e" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JohnvenTom&color=8B5CF6&style=plastic&label=Profile+Views&labelColor=1e1e2e" alt="Profile Views" />
 </p>
 
 <p align="center">
