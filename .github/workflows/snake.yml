@@ -16,8 +16,6 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: JohnvenTom
-          output_file: output/github-contribution-grid-snake.svg
-          output_file_dark: output/github-contribution-grid-snake-dark.svg
 
       - name: Commit and Push
         run: |
