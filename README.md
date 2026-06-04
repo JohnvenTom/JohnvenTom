@@ -21,7 +21,7 @@
 <!-- ============================================ -->
 <h2 align="center">
   <a href="https://github.com/JohnvenTom">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=580&lines=Hello,+I'm+JohnvenTom!%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;Let's+build+something+amazing+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Hello,+I'm+JohnvenTom!%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;Let's+build+something+amazing+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </h2>
 
