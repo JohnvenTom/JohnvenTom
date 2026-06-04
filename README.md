@@ -40,52 +40,7 @@
 ***
 
 <!-- ============================================ -->
-<!-- 🖥️ Terminal Window Style About Me -->
-<!-- ============================================ -->
-### 🧑‍💻 About Me
-
-<p align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?prompt=whoami%20%7C%20JohnvenTom%20-%20Full-Stack%20Developer&prompt=location%20%7C%20Earth%2C%20Solar%20System&prompt=focus%20%7C%20Web%20Dev%20%7C%20Cloud%20Native%20%7C%20AI%2FML&prompt=status%20%7C%20Building%20awesome%20things...&title=JohnvenTom@github:~$&theme=dark" alt="Terminal About Me" />
-</p>
-
-***
-
-<!-- ============================================ -->
-<!-- 🛠️ Tech Stack Icons Wall -->
-<!-- ============================================ -->
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,python,java,go,rust,docker,kubernetes,aws,git,linux,vscode,postgres,redis,mongodb,nginx&theme=dark&perline=10" alt="Tech Stack Icons" />
-</p>
-
-<details open>
-<summary><b>📊 Tech Details (Click to expand)</b></summary>
-
-| Category       | Technologies                                                                 |
-| -------------- | --------------------------------------------------------------------------- |
-| **Frontend**   | React, Vue.js, TypeScript, Next.js, Tailwind CSS, HTML/CSS                 |
-| **Backend**    | Node.js, Express, Python (FastAPI/Django), Java (Spring Boot), Go          |
-| **Database**   | PostgreSQL, MySQL, Redis, MongoDB                                          |
-| **DevOps**     | Docker, Kubernetes, CI/CD, AWS, GCP, Nginx                                 |
-| **Tools**      | Git, VS Code, Linux, Vim, Postman, Figma                                   |
-
-</details>
-
-***
-
-<!-- ============================================ -->
-<!-- � GitHub Stats -->
-<!-- ============================================ -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnvenTom&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnvenTom&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-</p>
-
-***
-
-<!-- ============================================ -->
-<!-- �🔗 Social Links -->
+<!--  Social Links -->
 <!-- ============================================ -->
 ### 🤝 Let's Connect
 
