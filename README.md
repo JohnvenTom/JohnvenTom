@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/JohnvenTom">
-    <img src="https://img.shields.io/badge/GitHub-JohnvenTom-181717?style=social&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-JohnvenTom-181717?style=social&logo=github&logoColor=black" alt="GitHub" />
   </a>
 </p>
 <p align="center">
@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/QQ邮箱-3040791779-12B7F5?style=social&logo=qq&logoColor=black" alt="QQ邮箱" />
   </a>
   <a href="mailto:tomjohnven@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-tomjohnven%40gmail.com-EA4335?style=social&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-tomjohnven%40gmail.com-EA4335?style=social&logo=gmail&logoColor=black" alt="Gmail" />
   </a>
 </p>
 
