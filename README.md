@@ -50,10 +50,10 @@
 </p>
 <p align="center">
   <a href="https://space.bilibili.com/305602111">
-    <img src="https://img.shields.io/badge/Bilibili-305602111-FF8EB3?style=social&logo=bilibili&logoColor=white" alt="Bilibili" />
+    <img src="https://img.shields.io/badge/Bilibili-305602111-FF8EB3?style=social&logo=bilibili&logoColor=black" alt="Bilibili" />
   </a>
   <a href="mailto:3040791779@qq.com">
-    <img src="https://img.shields.io/badge/QQ邮箱-3040791779-12B7F5?style=social&logo=qq&logoColor=white" alt="QQ邮箱" />
+    <img src="https://img.shields.io/badge/QQ邮箱-3040791779-12B7F5?style=social&logo=qq&logoColor=black" alt="QQ邮箱" />
   </a>
   <a href="mailto:tomjohnven@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-tomjohnven%40gmail.com-EA4335?style=social&logo=gmail&logoColor=white" alt="Gmail" />
