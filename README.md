@@ -29,11 +29,11 @@
 <!-- 💫 Tech Badges -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=social&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=social&logo=typescript&logoColor=black" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=social&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=social&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=social&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=social&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=social&logo=vuedotjs&logoColor=black" alt="Vue" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=social&logo=nodedotjs&logoColor=black" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=social&logo=python&logoColor=black" alt="Python" />
 </p>
 
 ***
