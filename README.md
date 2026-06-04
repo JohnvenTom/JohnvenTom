@@ -13,7 +13,7 @@
 <!-- 🎨 Dynamic Wave Background Banner -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,30:3b82f6,60:22c55e,100:161b22&height=250&section=header&text=JohnvenTom&fontSize=80&fontColor=FFFFFF&animation=fadeInUp&fontAlignY=40&desc=Full-Stack%20Developer&descSize=20&descColor=C084FC" alt="Animated Wave Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:238636,100:0d1117&height=250&section=header&text=JohnvenTom&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Animated Wave Header" />
 </p>
 
 <!-- ============================================ -->
