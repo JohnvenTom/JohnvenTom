@@ -67,7 +67,7 @@
 <!-- 👁️ Profile Views Counter -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JohnvenTom&color=8B5CF6&style=plastic&label=Profile+Views&labelColor=1e1e2e" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JohnvenTom&color=8B5CF6&style=for-the-badge&label=Profile+Views&labelColor=1e1e2e" alt="Profile Views" />
 </p>
 
 <p align="center">
