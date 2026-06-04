@@ -13,7 +13,7 @@
 <!-- 🎨 Dynamic Wave Background Banner -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=250&section=header&text=JohnvenTom&fontSize=70&fontColor=38BDF8&animation=fadeIn&fontAlignY=35" alt="Animated Wave Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:238636,100:0d1117&height=250&section=header&text=JohnvenTom&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Animated Wave Header" />
 </p>
 
 <!-- ============================================ -->
@@ -105,5 +105,5 @@
 <!-- 🌊 Bottom Wave (Page Footer) -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" alt="Bottom Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:238636,100:0d1117&height=100&section=footer" alt="Bottom Wave" />
 </p>
