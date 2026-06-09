@@ -45,8 +45,44 @@
   </a>
 </p>
 
-***
+<!-- ============================================ -->
+<!-- � GitHub Stats 统计卡 -->
+<!-- ============================================ -->
+<p align="center">
+  <a href="https://github.com/JohnvenTom">
+    <img src="https://github-readme-stats.vercel.app/api?username=JohnvenTom&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
 
+<!-- ============================================ -->
+<!-- 📊 Top Languages 语言占比 -->
+<!-- ============================================ -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnvenTom&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- ============================================ -->
+<!-- 🏆 Trophy 奖杯墙 -->
+<!-- ============================================ -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JohnvenTom&theme=radical&no-frame=true&margin-w=8" alt="GitHub Trophy" />
+</p>
+
+<!-- ============================================ -->
+<!-- � 随机名言 -->
+<!-- ============================================ -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
+</p>
+
+<!-- ============================================ -->
+<!-- 😂 随机笑话 -->
+<!-- ============================================ -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+</p>
+
+***
 <!-- ============================================ -->
 <!--  Social Links -->
 <!-- ============================================ -->
@@ -76,6 +112,13 @@
 <!-- ============================================ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JohnvenTom&color=8B5CF6&style=for-the-badge&label=Profile+Views&labelColor=1e1e2e" alt="Profile Views" />
+</p>
+
+<!-- ============================================ -->
+<!-- 🗺️ 访客地图 -->
+<!-- ============================================ -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JohnvenTom.JohnvenTom" alt="Visitors Map" />
 </p>
 
 <p align="center">
