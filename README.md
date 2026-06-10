@@ -114,13 +114,6 @@
   <img src="https://komarev.com/ghpvc/?username=JohnvenTom&color=8B5CF6&style=for-the-badge&label=Profile+Views&labelColor=1e1e2e" alt="Profile Views" />
 </p>
 
-<!-- ============================================ -->
-<!-- 🗺️ 访客地图 -->
-<!-- ============================================ -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JohnvenTom.JohnvenTom" alt="Visitors Map" />
-</p>
-
 <p align="center">
   <sub>Built with ❤️ and lots of ☕ | Powered by dynamic SVG magic ✨</sub>
 </p>
