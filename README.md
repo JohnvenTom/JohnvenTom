@@ -62,10 +62,10 @@
 </p>
 
 <!-- ============================================ -->
-<!-- 🏆 Trophy 奖杯墙 -->
+<!-- 🏆 GitHub 成就展示 -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnvenTom&theme=radical&no-frame=true&margin-w=8" alt="GitHub Trophy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnvenTom&theme=radical&hide_border=true" alt="GitHub Profile Summary" />
 </p>
 
 <!-- ============================================ -->
