@@ -73,6 +73,19 @@
 </p>
 
 <!-- ============================================ -->
+<!-- 📊 Metrics 综合信息图 -->
+<!-- ============================================ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JohnvenTom/JohnvenTom/main/metrics-core.svg" alt="Metrics Core" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JohnvenTom/JohnvenTom/main/metrics-achievements.svg" alt="Metrics Achievements" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JohnvenTom/JohnvenTom/main/metrics-activity.svg" alt="Metrics Activity" width="100%" />
+</p>
+
+<!-- ============================================ -->
 <!-- � 随机名言 -->
 <!-- ============================================ -->
 <p align="center">
