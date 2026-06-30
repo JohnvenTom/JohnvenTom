@@ -12,8 +12,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics-core.svg
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_message: "chore: update metrics-core [skip ci]"
           user: JohnvenTom
           template: classic
@@ -56,8 +56,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics-achievements.svg
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_message: "chore: update metrics-achievements [skip ci]"
           user: JohnvenTom
           template: classic
@@ -90,8 +90,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics-activity.svg
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_message: "chore: update metrics-activity [skip ci]"
           user: JohnvenTom
           template: classic
